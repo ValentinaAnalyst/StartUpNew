@@ -4,4 +4,5 @@
 * Высокая точность поиска
 * Высокая скорость поиска
 * Низкая цена
+
 ![logo](https://raw.githubusercontent.com/netology-ds-team/git-homeworks/main/1_self/logo.png)
